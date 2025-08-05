@@ -2,10 +2,6 @@
 
 A weather application built using HTML, CSS, and JavaScript that fetches real-time weather data from the Weather API.
 
-## Live Demo
-
-Check out the live demo of the application [here](https://weather-app-gamma-self.vercel.app/).
-
 ## Features
 
 - **Dynamic Weather Data:** Developed a weather application using HTML, CSS, and JavaScript that fetches real-time weather data from Weather API.
